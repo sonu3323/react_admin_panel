@@ -1,0 +1,79 @@
+
+.accordion-button {
+  background: #2d7ecf;
+  color: white;
+}
+
+body {
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+.typograph_heading {
+  margin-right: 70px;
+  color: black;
+  margin-left: 20px;
+}
+.typograph_second {
+  display: flex;
+  margin-top: 30px;
+}
+.addition_text {
+  display: flex;
+}
+.upgrade_text_p2 {
+  color: black;
+  margin-top: 30px !important;
+}
+.finance_typograph_head {
+  /* margin-right: 60px; */
+  color: black;
+  /* margin-left: 20px; */
+}
+.finance_text {
+  display: flex;
+}
+.internalf1_text {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 30px;
+}
+.typograph_third {
+  display: flex;
+}
+.typograph_heading_2 {
+  /* margin-right: 300px; */
+  color: black;
+  /* margin-left: 20px; */
+}
+.tax_text {
+  margin-right: 80px;
+  color: black;
+  margin-left: 30px;
+}
+.item {
+  padding: 5px 5px 5px 5px;
+}
+.taxfee_header {
+  display: flex;
+}
+.bottom_text_head {
+  display: flex;
+  border-top: 1px solid black;
+}
+.typograph_tradein_header {
+  display: flex;
+  margin-top: 30px;
+  border: 1px solid black;
+  /* box-shadow: 2px #ccc; */
+}
+.typograph_tradeins {
+  display: flex;
+  margin-top: 30px;
+  border: 1px solid rgb(214, 214, 214);
+  margin: 10px 10px 10px 10px !important;
+  padding: 10px 10px 10px 10px !important;
+  box-shadow:        3px 3px 2px -2px #ccc
+}
+
+.textCapitalize{
+  text-transform: capitalize !important;
+}

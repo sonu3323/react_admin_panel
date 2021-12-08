@@ -1,0 +1,2 @@
+export const SHOW_DOCUMENTS = "SHOW_DOCUMENTS";
+export const ADD_DOCUMENTS = "ADD_DOCUMENTS";

@@ -1,0 +1,2 @@
+export const SHOW_DEPOSITS = "SHOW_DEPOSITS";
+export const ADD_DEPOSITS = "ADD_DEPOSITS";
